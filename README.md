@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hariharan
 - 👀 I’m interested in creating website ,python
-- 🌱 I’m currently learning chennai.
+-
+
 - 📫 How to reach me 
 
 <!---
