@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hariharan
-- 👀 I’m interested in creating website ,python
+- 👀 I’m interested in python,c,creating website.
 -
-
 - 📫 How to reach me 
 
 <!---
