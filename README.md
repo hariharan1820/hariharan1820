@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hariharan
-- 👀 I’m interested in python,c,creating website.
+- 👀 Android developer. intrested in #python #c #Django #javascript #Html/css.
 -
 - 📫 How to reach me 
 
